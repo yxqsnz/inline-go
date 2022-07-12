@@ -1,0 +1,2 @@
+# inline-go
+Yes.
